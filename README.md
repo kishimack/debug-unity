@@ -31,4 +31,6 @@ O projeto desse repositório é o que a pessoa conseguiu recuperar.
 
 Seu objetivo é fazer um *fork* (bifurcação) do repositório, analisar o estado atual do projeto e alterá-lo de forma que o projeto volte a funcionar como descrito na página anterior.
 
-Para todas as alterações realizadas, descreva o que foi feito (crie um arquivo **Changes.md** na raiz do projeto). Caso as alterações tenham sido realizadas para resolver bugs, descreva o problema e sua solução (explique como você resolveu o problema). Consideração extra se você aplicar o método científico!
+Para todas as alterações realizadas, descreva o que foi feito (crie um arquivo **Changes.md** na raiz do repositório). Caso as alterações tenham sido realizadas para resolver bugs, descreva o problema e sua solução (explique como você resolveu o problema).
+
+Consideração extra se você aplicar o método científico!
