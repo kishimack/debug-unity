@@ -1,6 +1,6 @@
 # Debug Unity: testes, bugs e debug
 
-### Descrição
+## Descrição
 
 Uma pessoa criou o projeto **DebugUnity** tendo em mente as seguintes funcionalidades:
 
@@ -27,9 +27,9 @@ O projeto desse repositório é o que a pessoa conseguiu recuperar.
 
 
 
-### Objetivo
+## Objetivo
 
-Seu objetivo é fazer um *fork* (bifurcação) do repositório, analisar o estado atual do projeto e alterá-lo de forma que o projeto volte a funcionar como descrito na página anterior.
+Seu objetivo é fazer um *fork* (bifurcação) do repositório, analisar o estado atual do projeto e alterá-lo de forma que o projeto volte a funcionar como descrito na seção anterior.
 
 Para todas as alterações realizadas, descreva o que foi feito (crie um arquivo **Changes.md** na raiz do repositório). Caso as alterações tenham sido realizadas para resolver bugs, descreva o problema e sua solução (explique como você resolveu o problema).
 
